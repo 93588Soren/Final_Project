@@ -8,5 +8,5 @@
 
 
 
-how the actual fuck am I going to get this done, holy shit.
+how the actual fuck 
 
