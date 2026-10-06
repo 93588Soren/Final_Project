@@ -10,3 +10,8 @@
 
 how the actual fuck 
 
+Random Forests
+Logistical Regression
+
+//Nearest Neighbor???
+//Gradient Boosting??? 
