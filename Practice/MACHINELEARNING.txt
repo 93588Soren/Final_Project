@@ -1,0 +1,1 @@
+This scripts are my attempt at trying to learn how to use machine learning 
