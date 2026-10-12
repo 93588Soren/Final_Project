@@ -1,0 +1,4 @@
+//Sources
+https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS
+https://exoplanetarchive.ipac.caltech.edu/cgi-bin/atmospheres/nph-firefly?atmospheres
+https://research.iac.es/proyecto/exoatmospheres/table.php
