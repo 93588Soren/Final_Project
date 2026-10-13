@@ -2,14 +2,28 @@ import math
 import pandas as pd
 import numpy as np
 
-confirmed_atmostspheres_df = pd.read_csv('iac_exoplanet_atmospheres-20261012.csv',sep = ';', quotechar= '"', on_bad_lines = 'skip')
+k = 1
+near_earth_asteriods_df = pd.read_csv('near_earth_asteroids_2025 (1).csv')
 
-print(confirmed_atmostspheres_df.info())
+print(near_earth_asteriods_df.info())
+
+x = near_earth_asteriods_df[[
+    'diameter_km',
+    'H',
+    'rot_per',
+    'e',
+    'a',
+    'i',
+    'q',
+    'ad']].values
+y = near_earth_asteriods_df['pha'].values
 
 
 
 
+def predict(new_asteriod):
+    closest_match = None
+    shortest_distnace = float('inf')
+    for x in near_earth_asteriods_df:
+        
 
-
-def predict_atmostphere(exoplanet):
-    closest_planet = None
