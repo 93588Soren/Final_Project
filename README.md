@@ -2,7 +2,7 @@
 
 
 
-\-Creating predictive algorithm that based on data predicts if and exoplanet has a atmosphere 
+using some machine learning stuff I researched to figure out if asteroid is going potential harmful
 
 
 
